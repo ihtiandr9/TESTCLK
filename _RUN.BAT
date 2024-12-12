@@ -1,0 +1,1 @@
+bcc -1  -v -y -u testclk.c libclk.c
